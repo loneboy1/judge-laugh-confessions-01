@@ -1,0 +1,1 @@
+{"engines":{"node":">=22.18"},"main":"main.ts","name":"judge-laugh-confessions-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
